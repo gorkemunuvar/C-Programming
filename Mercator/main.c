@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-float mercator(int); //(0,2] aralığında bir değer girilmeli.
+float mercator(int); //(0,2] aralÄ±ÄŸÄ±nda bir deÄŸer girilmeli.
 
 int main(void) {
 	int x;
